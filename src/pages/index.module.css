@@ -1,0 +1,33 @@
+/*
+ * Style in CSS Modules.
+ */
+
+
+
+.app {
+  /* height: 200px; */
+}
+
+.item2 {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+}
+.item1 {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+.item3 {
+  width: 100px;
+  height: 100px;
+
+  background-color: red;
+}
+
+div {
+  background-color: blue;
+}
